@@ -1,2 +1,2 @@
 #ignora arquivos csv
-.csv 
+*.csv 
